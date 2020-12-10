@@ -1,0 +1,9 @@
+notebook
+pathlib
+numpy
+sklearn
+matplotlib
+pandas
+mlxtend
+Keras
+tensorflow
